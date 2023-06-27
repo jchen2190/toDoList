@@ -28,4 +28,6 @@ npm i --save-dev typescript
 npx tsc --init
 npm i uuid
 
-npx create-snowpack-app . --template @snowpack/app-template/blank/typescript --force -->
+npx create-snowpack-app . --template @snowpack/app-template/blank/typescript --force
+npm i --save-dev @types/uuid
+-->
