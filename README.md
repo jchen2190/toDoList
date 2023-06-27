@@ -22,3 +22,10 @@ Your app is ready to be deployed!
 ### Q: What about Eject?
 
 No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
+
+<!-- npm init -y
+npm i --save-dev typescript
+npx tsc --init
+npm i uuid
+
+npx create-snowpack-app . --template @snowpack/app-template/blank/typescript --force -->
